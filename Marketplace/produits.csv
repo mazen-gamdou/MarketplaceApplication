@@ -1,0 +1,9 @@
+RéfP,Déscription,Prix,DeliveryCost,Vendeur,type,status
+CF004,Perceuse à percussion base,315,315,Carrefour,externe,stock
+MP220,Disqueuse basique,199,315,Carrefour,externe,stock
+MP401,5$,255,315,Carrefour,externe,sold
+P05,Pancarte Travaux,133,315,Carrefour,externe,stock
+PE105,Boîte de tournevis,280,315,Geant,externe,stock
+PE85,Boiîte à outils,2650,315,Geant,externe,sold
+y520,pc gaming,1400,120,Geant,externe,stock
+lol,game,0,50,Carrefour,externe,sold,
